@@ -4,5 +4,11 @@
   "线路3": "vip.xg.frp.one:30280",
   "线路4": "vip.hb.2.frp.one:11282",
   "线路5": "vip.hb.frp.one:11281",
-  "线路6": "vip.yn.frp.one:33290"
+  "线路6": "vip.yn.frp.one:33290",
+  "线路7": "frp-hub.com:33282",
+  "线路8": "frp-bid.com:11280",
+  "线路9": "frp-ten.com:11280",
+  "线路10": "frp-day.com:11280",
+  "线路11": "frp-web.com:11280",
+  "线路12": "frp-lab.com:11282"
 }
